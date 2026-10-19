@@ -20,9 +20,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=busraasy&theme=radial" alt="GitHub Profile Details" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=busraasy&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=busraasy&theme=radial" alt="GitHub Profile Details" width="80%" />
 </p>
