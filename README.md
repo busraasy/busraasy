@@ -22,5 +22,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busraasy&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busraasy&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=busraasy&theme=radial" alt="GitHub Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=busraasy&theme=radial" alt="Top Languages" width="48%" />
+</p>
